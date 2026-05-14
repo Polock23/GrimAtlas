@@ -1,0 +1,18 @@
+{
+  "name": "Idea Vault",
+  "short_name": "Idea Vault",
+  "description": "Creative ideas manager for games and stories",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0805",
+  "theme_color": "#0a0805",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
